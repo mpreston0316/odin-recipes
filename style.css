@@ -1,7 +1,41 @@
-div {
+.exercise.one {
     background-color: red;
     color: white;
     font-size: 32px;
     text-align: center;
     font-weight: bold;
+}
+
+.odd{
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+.adjust_font {
+    font-size: 24px; 
+}
+
+#four {
+    background-color: lightgreen;
+    font-weight: bold;
+}
+
+.inverted,
+.fancy {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 28px;
+}
+
+.inverted {
+  background-color: black;
+  color: white;
+}
+
+.fancy {
+  background-color: yellow;
 }
